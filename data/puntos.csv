@@ -1,0 +1,17 @@
+id,edificio,acometida,uso,equipo,archivo_original
+rectoria,Rectoría,MT1,edificio,Fluke 1775,POSTGRADO 2026.txt
+chiller_rectoria,Chiller Rectoría,MT1,climatizacion,A-Eberle PQ-Box 150,POSTGRADO_CHILLER_UL1.csv
+chiller_edificio_1,Casa de máquinas - Chiller Edificio 1,MT1,climatizacion,A-Eberle PQ-Box 150,EDIFICIO_1_CHILLER_UL1.csv
+edificio_1,Edificio 1,MT1,edificio,A-Eberle PQ-Box 150,EDIFICIO_1_UL1.csv
+ditic,DITIC,MT1,edificio,A-Eberle PQ-Box 150,DITIC_UL1.csv
+edificio_3,Edificio 3,MT1,edificio,A-Eberle PQ-Box 150,EDIFICIO_3_UL1.csv
+chiller_edificio_3,Casa de máquinas - Chiller Edificio 3,MT1,climatizacion,Fluke 1775,CHILLER EDIFICIO 3 2026.txt
+laboratorio_docentes,Laboratorio Docentes,MT2,edificio,A-Eberle PQ-Box 300,LABORATORIO_DE_DOCENTES_UL1.csv
+investigacion_eli,Investigación ELI,MT2,edificio,Fluke 1775,Edificio Elli 2026.txt
+casa_maquinas_4,Casa de Máquinas 4,MT2,climatizacion,A-Eberle PQ-Box 150,CASA_DE_MAQUINAS_4_UL1.csv
+aulas_edificio_4,Aulas (Edificio 4),MT2,edificio,Fluke 1775,AULAS_2026.txt
+facilidades,Facilidades,MT2,edificio,Fluke 1775,FACILIDADES 2026.txt
+cafeteria_central,Cafetería Central,MT2,edificio,Fluke 1775,Cafeteria central 2026.txt
+vipe_edificio,VIPE - Edificio administrativo,MT2,edificio,A-Eberle PQ-Box 300,VIPE Edificio.csv
+vipe_uma,VIPE - UMA,MT2,climatizacion,A-Eberle PQ-Box 150,VIPE UMA.csv
+vipe_bombas_chiller,VIPE - Bombas y chiller,MT2,climatizacion,A-Eberle PQ-Box 150,VIPE__BOMBAS_Y_CHILLER_.csv

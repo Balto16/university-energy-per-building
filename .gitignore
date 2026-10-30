@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+~$*.docx
+~$*.xlsx
+resultados/portada.png
+interno/

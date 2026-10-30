@@ -1,0 +1,19 @@
+acometida,concepto,monto_usd
+MT1,Cargo fijo,10.03
+MT1,Energía,102586.56
+MT1,Demanda,25845.31
+MT1,Variación por combustible,39.28
+MT1,FET adicional,-5176.21
+MT1,Subsidio Ley 15 (0.42 %),539.62
+MT2,Cargo fijo,10.03
+MT2,Energía,50025.03
+MT2,Demanda,14392.35
+MT2,Variación por combustible,19.15
+MT2,FET adicional,-2596.42
+MT2,Subsidio Ley 15 (0.42 %),270.68
+BT,Cargo fijo,5.57
+BT,Energía,10973.02
+BT,Demanda,3762.0
+BT,Variación por combustible,6.16
+BT,FET adicional,-1608.19
+BT,Subsidio Ley 15 (0.42 %),61.94
